@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-    a := !ssds
+    a := !ssds 2
 }
